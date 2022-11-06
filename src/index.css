@@ -1,0 +1,21 @@
+body {
+  font-size: 12px;
+  font-family: sans-serif;
+  background: #2c3e50;
+  background-image: url(/src/background.png);
+  background-repeat:no-repeat;
+  background-size: auto;
+  
+  background-position: left;
+  background-blend-mode: color-burn;
+  
+}
+
+span {
+  color: #2BD6B4;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
