@@ -8,7 +8,7 @@ const MyBuilds = () => {
         <div className='arrangement'>
           <div className='container'>
             <div className='card'>
-            <a href="https://github.com/seamoonpandey/newsAppcreated-with_React-library" title="NewsApp-with-react"><h1 style={{color:"white"}}>News App</h1></a>
+            <a href="https://github.com/seamoonpandey/livenewsApp_using-react/tree/master" title="NewsApp-with-react"><h1 style={{color:"white"}}>News App</h1></a>
             <div className='explanation'>
               <hr/>
               <p>
